@@ -78,3 +78,26 @@
 - [Documentación: .Net-Clean-Architecture](https://github.com/giramos/.Net-Clean-Architecture/blob/master/Doc/Clean%20Architecture%20.Net.pdf)  
 
 ---
+
+## 📅 Fecha: 06/02/2025
+
+### 🔧 **Tareas realizadas**
+- Clean Architecture usando DDD y .Net7
+- Validaciones Behavior
+- Nuevos casos CRUD
+- Pruebas Unitarias
+
+### 📚 **Referencias y Recursos**
+- [Curso .Net Clean Architecture en Español](https://www.youtube.com/playlist?list=PLOnQtvVd3KIRVH8jk8mEyGaYD-wua5sXC)
+
+### 🚩 **Puntos Destacables**
+- ⚠️ Middleware: Manejador de Errores   
+
+### 🛠️ **Herramientas Utilizadas**
+- [Swagger](https://swagger.io/)  
+  ![Swagger](https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png)  
+
+### 📂 **Repositorios**
+- [Repositorio personal: .Net Clean Architecture](https://github.com/giramos/.Net-Clean-Architecture)  
+- [Documentación: .Net-Clean-Architecture](https://github.com/giramos/.Net-Clean-Architecture/blob/master/Doc/Clean%20Architecture%20.Net.pdf) 
+---
