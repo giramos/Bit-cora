@@ -86,18 +86,25 @@
 - Validaciones Behavior
 - Nuevos casos CRUD
 - Pruebas Unitarias
+- Implementación de una pequeña API en ASP.NET con CQRS y MediatR para fundamentar aspectos de la publicacion 'Desarrollando una API en ASP.NET con CQRS y MediatR'
 
 ### 📚 **Referencias y Recursos**
 - [Curso .Net Clean Architecture en Español](https://www.youtube.com/playlist?list=PLOnQtvVd3KIRVH8jk8mEyGaYD-wua5sXC)
+- [Publicación Desarrollando una API en ASP.NET con CQRS y MediatR](https://dev.to/isaacojeda/parte-1-cqrs-y-mediatr-implementando-cqrs-en-aspnet-56oe)
 
 ### 🚩 **Puntos Destacables**
-- ⚠️ Middleware: Manejador de Errores   
+- ⚠️ Middleware: Manejador de Errores
+- ⚠️ SQLite: enlace de interés ▶️ https://panamahitek.com/aprende-a-crear-bases-de-datos-sqlite/ 
 
 ### 🛠️ **Herramientas Utilizadas**
 - [Swagger](https://swagger.io/)  
-  ![Swagger](https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png)  
+  ![Swagger](https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png)
+- [SQLite](https://www.sqlite.org/)  
+  ![SQLite](https://www.sqlite.org/images/sqlite370_banner.svg)  
 
 ### 📂 **Repositorios**
 - [Repositorio personal: .Net Clean Architecture](https://github.com/giramos/.Net-Clean-Architecture)  
-- [Documentación: .Net-Clean-Architecture](https://github.com/giramos/.Net-Clean-Architecture/blob/master/Doc/Clean%20Architecture%20.Net.pdf) 
+- [Documentación: .Net-Clean-Architecture](https://github.com/giramos/.Net-Clean-Architecture/blob/master/Doc/Clean%20Architecture%20.Net.pdf)
+- [Repositorio personal: ASP.NET-con-CQRS-y-MediatR](https://github.com/giramos/ASP.NET-con-CQRS-y-MediatR.git)
+  
 ---
