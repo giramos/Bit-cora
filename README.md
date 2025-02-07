@@ -108,3 +108,31 @@
 - [Repositorio personal: ASP.NET-con-CQRS-y-MediatR](https://github.com/giramos/ASP.NET-con-CQRS-y-MediatR.git)
   
 ---
+
+## 📅 Fecha: 07/02/2025
+
+### 🔧 **Tareas realizadas**
+- Desarrollo de un proyecto de ejemplo basado en DDD & CQRS. 
+- Iniciación en TypeScript: conceptos y sintaxis
+- Creación de varios ejemplos con TypeScript
+- Creación de un manual de TypeScript para iniciados en el lenguaje de programación 
+
+### 📚 **Referencias y Recursos**
+- [Publicacion DDD & CQRS: Aplicando Domain Events en ASP.NET Core](https://dev.to/isaacojeda/ddd-cqrs-aplicando-domain-events-en-aspnet-core-o6n)
+- [Curso intensivo: De Novato a Ninja: Aprende TypeScript (parte 1)](https://www.youtube.com/watch?v=fUgxxhI_bvc)
+- [Curso intensivo: De Novato a Ninja: Aprende TypeScript (parte 2)](https://www.youtube.com/watch?v=L1ZSk-vPVKI)
+- [Placeholder TypeScript](https://www.typescriptlang.org/play/?#code/MYewdgzgLgBGIFsBGAnApgLhtFBLMA5jALwwDkAsrgQK5oA2ZQA)
+
+### 🚩 **Puntos Destacables**
+- ⚠️ Nota: Tipado estático (vs al tipado dinámico de JavaScript)
+
+### 🛠️ **Herramientas Utilizadas**
+- [TypeScript](https://www.typescriptlang.org/)  
+  ![TypeScript](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/240px-Typescript_logo_2020.svg.png)
+
+### 📂 **Repositorios**
+- DDD & CQRS: Aplicando Domain Events en ASP.NET Core: [Repositorio personal: DDD-CQRS](https://github.com/giramos/DDD-CQRS)  
+- Documentación desarrollada basada en el curso y ejemplos realizado: [Documentación: TypeScript: Guía de Iniciación](https://github.com/giramos/TypeScript/blob/master/Doc/TypeScript.pdf)
+- [Repositorio personal: TypeScript](https://github.com/giramos/TypeScript)
+  
+---
