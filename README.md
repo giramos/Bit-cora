@@ -136,3 +136,28 @@
 - [Repositorio personal: TypeScript](https://github.com/giramos/TypeScript)
   
 ---
+
+## 📅 Fecha: 10/02/2025
+
+### 🔧 **Tareas realizadas**
+- Preparación del entorno para ReactNative, Expo Go y Android Studio 
+- Inicio del curso completo de React Native + Hooks
+
+### 📚 **Referencias y Recursos**
+- [Curso completo: React Native + Hooks](https://www.youtube.com/watch?v=Dl8x8EWXq8s)
+- [React Native: arrancar tu entorno](https://reactnative.dev/docs/set-up-your-environment)
+- [Banco de imágenes](https://www.pngegg.com/es)
+
+### 🚩 **Puntos Destacables**
+- ⚠️ Nota: Dificultadas a la hora de preparar el entorno en mis PCs
+- ⚠️ Importante: Iniciar antes el emulador antes de arrancar Expo 
+
+### 🛠️ **Herramientas Utilizadas**
+- [Android Studio](https://www.typescriptlang.org/) 
+- [ReactNative](https://reactnative.dev/docs/set-up-your-environment)
+- [Expo Go](https://expo.dev/)
+
+### 📂 **Repositorios**
+- [Repositorio personal: ReactNative-Hooks](https://github.com/giramos/ReactNative-Hooks.git)
+- [Presentación "FanZine"](https://github.com/giramos/ReactNative-Hooks/blob/master/Doc/RactNative.pdf)
+  
