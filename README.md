@@ -161,3 +161,36 @@
 - [Repositorio personal: ReactNative-Hooks](https://github.com/giramos/ReactNative-Hooks.git)
 - [Presentación "FanZine"](https://github.com/giramos/ReactNative-Hooks/blob/master/Doc/RactNative.pdf)
   
+---
+
+## 📅 Fecha: 11/02/2025
+
+### 🔧 **Tareas realizadas**
+- Creación de un proyecto de gestión de tiempos con Pomodoro usando React Native
+- Creación de una aplicación desarrollada con React Native que usa una API de la NASA
+
+### 📚 **Referencias y Recursos**
+- [Curso completo: React Native + Hooks](https://www.youtube.com/watch?v=Dl8x8EWXq8s)
+- [React Native: arrancar tu entorno](https://reactnative.dev/docs/set-up-your-environment)
+- [API de la Nasa](https://api.nasa.gov/)
+- [Descarga de Imágenes](https://pixabay.com/es/)
+- [Descarga de sonidos](https://freesound.org/)
+- [Creación de un email con tiempo limitado](https://10minutemail.com/)
+
+### 🚩 **Puntos Destacables**
+- ⚠️ NOTA: tuviste problemas al incorporar la navegación
+      - :white_check_mark: Solución -> NavigationIndependentTree
+
+### 🛠️ **Herramientas Utilizadas**
+- [ReactNative](https://reactnative.dev/docs/getting-started)  
+  ![ReactNative](https://reactnative.dev/img/header_logo.svg)
+- [API NASA](https://api.nasa.gov/)
+  ![API NASA](https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg)
+
+### 📂 **Repositorios**
+- FanZine asociado al proyecto Proyecto React Native Hooks NASA: [FanZine NASA](https://github.com/giramos/ReactNative-Hooks-NASA/blob/master/Doc/FanZine_NASA.pdf)
+- Proyecto React Native Hooks NASA: [Repositorio personal: ReactNative NASA](https://github.com/giramos/ReactNative-Hooks-NASA)
+- FanZine asociado al proyecto Proyecto React Native Hooks Pomodoro: [FanZine Pomodoro](https://github.com/giramos/ReactNative-Hooks-Pomodoro/blob/master/Doc/FanZine_Pomodoro.pdf)
+- Proyecto React Native Hooks Pomodoro: [Repositorio personal: ReactNative Pomodoro](https://github.com/giramos/ReactNative-Hooks-Pomodoro)
+  
+---
