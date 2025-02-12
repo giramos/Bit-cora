@@ -208,8 +208,8 @@
 
 ### 🚩 **Puntos Destacables**
 - ⚠️ NOTA: Inconveniente último ejemplo del tutorial -> video editado
-  [!WARNING]
-  - Poyecto incompleto
+> [!WARNING]
+> - Poyecto FlashCards incompleto
 
 ### 🛠️ **Herramientas Utilizadas**
 - [ReactNative](https://reactnative.dev/docs/getting-started)  
@@ -217,5 +217,5 @@
 
 ### 📂 **Repositorios**
 - Proyecto React Native Hooks Calorías: [Repositorio personal: ReactNative Calories](https://github.com/giramos/ReactNative-Hooks-Calories.git)
- [!CAUTION]
-- Proyecto React Native Hooks FlashCards: [Repositorio personal: ReactNative Flashcards](https://github.com/giramos/ReactNative-Hooks-FlashCards)
+> [!CAUTION]
+> - Proyecto React Native Hooks FlashCards: [Repositorio personal: ReactNative Flashcards](https://github.com/giramos/ReactNative-Hooks-FlashCards)
