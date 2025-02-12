@@ -194,3 +194,28 @@
 - Proyecto React Native Hooks Pomodoro: [Repositorio personal: ReactNative Pomodoro](https://github.com/giramos/ReactNative-Hooks-Pomodoro)
   
 ---
+
+## 📅 Fecha: 12/02/2025
+
+### 🔧 **Tareas realizadas**
+- Creación de un proyecto de gestión de calorías de un cliente con React Native
+[!CAUTION]
+- Creación de un proyecto de flashcards para estudiantescon React Native
+
+### 📚 **Referencias y Recursos**
+- [Curso completo: React Native + Hooks](https://www.youtube.com/watch?v=Dl8x8EWXq8s)
+- [React Native: arrancar tu entorno](https://reactnative.dev/docs/set-up-your-environment)
+
+### 🚩 **Puntos Destacables**
+- ⚠️ NOTA: Inconveniente último ejemplo del tutorial -> video editado
+  [!WARNING]
+  - Poyecto incompleto
+
+### 🛠️ **Herramientas Utilizadas**
+- [ReactNative](https://reactnative.dev/docs/getting-started)  
+  ![ReactNative](https://reactnative.dev/img/header_logo.svg)
+
+### 📂 **Repositorios**
+- Proyecto React Native Hooks Calorías: [Repositorio personal: ReactNative Calories](https://github.com/giramos/ReactNative-Hooks-Calories.git)
+ [!CAUTION]
+- Proyecto React Native Hooks FlashCards: [Repositorio personal: ReactNative Flashcards](https://github.com/giramos/ReactNative-Hooks-FlashCards)
