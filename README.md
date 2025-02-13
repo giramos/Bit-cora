@@ -9,6 +9,7 @@
 - [10/02/2025](#-fecha-10022025)  
 - [11/02/2025](#-fecha-11022025)  
 - [12/02/2025](#-fecha-12022025)  
+- [13/02/2025](#-fecha-13022025) 
 
 ---
 
@@ -209,8 +210,8 @@
 
 ### 🔧 **Tareas realizadas**
 - Creación de un proyecto de gestión de calorías de un cliente con React Native
-[!CAUTION]
-- Creación de un proyecto de flashcards para estudiantescon React Native
+> [!CAUTION]
+> - Creación de un proyecto de flashcards para estudiantes con React Native
 
 ### 📚 **Referencias y Recursos**
 - [Curso completo: React Native + Hooks](https://www.youtube.com/watch?v=Dl8x8EWXq8s)
@@ -229,3 +230,33 @@
 - Proyecto React Native Hooks Calorías: [Repositorio personal: ReactNative Calories](https://github.com/giramos/ReactNative-Hooks-Calories.git)
 > [!CAUTION]
 > - Proyecto React Native Hooks FlashCards: [Repositorio personal: ReactNative Flashcards](https://github.com/giramos/ReactNative-Hooks-FlashCards)
+
+---
+
+## 📅 Fecha: 13/02/2025
+
+### 🔧 **Tareas realizadas**
+- Aprendizaje de conceptos básicos y comandos de GIT
+[!IMPORTANT]
+- Completar proyecto flashcards para estudiantes con React Native
+- Primera toma de contacto con Firebase
+
+### 📚 **Referencias y Recursos**
+- Proyecto FlashCards "último ejemplo" [Curso completo: React Native + Hooks](https://www.youtube.com/watch?v=Dl8x8EWXq8s)
+- Inicio en GIT [Curso de GIT desde CERO (Completo)](https://www.youtube.com/watch?v=9ZJ-K-zk_Go)
+
+### 🚩 **Puntos Destacables**
+> [!IMPORTANT]
+> - Importante: errores de navigation en rutas...
+    > - el problema se soluciona con tree o eliminando etiqueta containerNvigation
+    > - Causa: expo ya añade un navegador de serie, es por eso
+> - Poyecto FlashCards terminado
+
+### 🛠️ **Herramientas Utilizadas**
+- [ReactNative](https://reactnative.dev/docs/getting-started)  
+  ![ReactNative](https://reactnative.dev/img/header_logo.svg)
+- [Firebase]() 
+  ![Firebase]()
+
+### 📂 **Repositorios**
+- Proyecto React Native Hooks FlashCards: [Repositorio personal: ReactNative Flashcards](https://github.com/giramos/ReactNative-Hooks-FlashCards)
