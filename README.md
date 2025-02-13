@@ -238,8 +238,8 @@
 ### 🔧 **Tareas realizadas**
 - Aprendizaje de conceptos básicos y comandos de GIT
 >[!IMPORTANT]
-- Completar proyecto flashcards para estudiantes con React Native
-  - Primera toma de contacto con Firebase
+>- Completar proyecto flashcards para estudiantes con React Native
+ > - Primera toma de contacto con Firebase
 
 ### 📚 **Referencias y Recursos**
 - Proyecto FlashCards "último ejemplo" [Curso completo: React Native + Hooks](https://www.youtube.com/watch?v=Dl8x8EWXq8s)
@@ -247,9 +247,9 @@
 
 ### 🚩 **Puntos Destacables**
 > [!IMPORTANT]
-> - Importante: errores de navigation en rutas...
-    > - el problema se soluciona con tree o eliminando etiqueta containerNvigation
-    > - Causa: expo ya añade un navegador de serie, es por eso
+> - ⚠️ Importante: errores de navigation en rutas...
+  > - El problema se soluciona con tree o eliminando etiquetas containerNavigation
+    > - Causa: Expo ya añade un navegador de serie, es por eso
 > - Poyecto FlashCards terminado
 
 ### 🛠️ **Herramientas Utilizadas**
