@@ -237,9 +237,9 @@
 
 ### 🔧 **Tareas realizadas**
 - Aprendizaje de conceptos básicos y comandos de GIT
-[!IMPORTANT]
+>[!IMPORTANT]
 - Completar proyecto flashcards para estudiantes con React Native
-- Primera toma de contacto con Firebase
+  - Primera toma de contacto con Firebase
 
 ### 📚 **Referencias y Recursos**
 - Proyecto FlashCards "último ejemplo" [Curso completo: React Native + Hooks](https://www.youtube.com/watch?v=Dl8x8EWXq8s)
@@ -255,8 +255,9 @@
 ### 🛠️ **Herramientas Utilizadas**
 - [ReactNative](https://reactnative.dev/docs/getting-started)  
   ![ReactNative](https://reactnative.dev/img/header_logo.svg)
-- [Firebase]() 
-  ![Firebase]()
+- [Firebase](https://console.firebase.google.com/?hl=es-419) 
+  ![Firebase](https://www.gstatic.com/mobilesdk/240501_mobilesdk/firebase_28dp.png)
 
 ### 📂 **Repositorios**
+- Guía de instrucciones, conceptos y comandos desarrollados tras el curso de GIT: [InstruccionesGIT](https://github.com/giramos/ReactNative-Hooks-FlashCards/blob/master/CursoGIT/gitInstruccion.txt.txt)
 - Proyecto React Native Hooks FlashCards: [Repositorio personal: ReactNative Flashcards](https://github.com/giramos/ReactNative-Hooks-FlashCards)
