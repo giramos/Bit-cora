@@ -261,3 +261,4 @@
 ### 📂 **Repositorios**
 - Guía de instrucciones, conceptos y comandos desarrollados tras el curso de GIT: [InstruccionesGIT](https://github.com/giramos/ReactNative-Hooks-FlashCards/blob/master/CursoGIT/gitInstruccion.txt.txt)
 - Proyecto React Native Hooks FlashCards: [Repositorio personal: ReactNative Flashcards](https://github.com/giramos/ReactNative-Hooks-FlashCards)
+- FanZine sobre React Native Hooks FlashCards: [FanZine PDF](https://github.com/giramos/ReactNative-Hooks-FlashCards/blob/master/FlashCards/Doc/FanZine_FlashCards.pdf)
