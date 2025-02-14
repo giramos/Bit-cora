@@ -9,7 +9,8 @@
 - [10/02/2025](#-fecha-10022025)  
 - [11/02/2025](#-fecha-11022025)  
 - [12/02/2025](#-fecha-12022025)  
-- [13/02/2025](#-fecha-13022025) 
+- [13/02/2025](#-fecha-13022025)
+- [14/02/2025](#-fecha-14022025) 
 
 ---
 
@@ -262,3 +263,20 @@
 - Guía de instrucciones, conceptos y comandos desarrollados tras el curso de GIT: [InstruccionesGIT](https://github.com/giramos/ReactNative-Hooks-FlashCards/blob/master/CursoGIT/gitInstruccion.txt.txt)
 - Proyecto React Native Hooks FlashCards: [Repositorio personal: ReactNative Flashcards](https://github.com/giramos/ReactNative-Hooks-FlashCards)
 - FanZine sobre React Native Hooks FlashCards: [FanZine PDF](https://github.com/giramos/ReactNative-Hooks-FlashCards/blob/master/FlashCards/Doc/FanZine_FlashCards.pdf)
+
+---
+
+## 📅 Fecha: 14/02/2025
+
+### 🔧 **Tareas realizadas**
+- Configuración del entorno del desarrollo
+  - Back-end :ballot_box_with_check:
+  - Front-end :x: 
+
+### 🚩 **Puntos Destacables**
+> [!WARNING]
+> - ⚠️ Importante: Errores de configuración en el Front
+  > - Orden de arranque (posible solución)
+
+
+
