@@ -11,6 +11,8 @@
 - [12/02/2025](#-fecha-12022025)  
 - [13/02/2025](#-fecha-13022025)
 - [14/02/2025](#-fecha-14022025) 
+- [17/02/2025](#-fecha-17022025) 
+- [18/02/2025](#-fecha-18022025) 
 
 ---
 
@@ -279,4 +281,38 @@
   > - Orden de arranque (posible solución)
 
 
+---
 
+## 📅 Fecha: 17/02/2025
+
+### 🔧 **Tareas realizadas**
+- Configuración del entorno del desarrollo
+  - Front-end :ballot_box_with_check:
+- Implementación endPoints
+  - GetAllUsers
+  - GetUserByUserName
+
+---
+
+## 📅 Fecha: 18/02/2025
+
+### 🔧 **Tareas realizadas**
+- Configuración del entorno del desarrollo
+  - Front-end :ballot_box_with_check:
+- Implementación endPoints
+  - GetAllUsers
+  - GetUserByUserName
+  - GetUserById
+- Implementación de un Middleware global  
+
+### 🚩 **Puntos Destacables**
+> [!NOTE] 
+> - ⚠️ Importante: Eliminar try - catch de los manejadores gracias al <b>Middleware global</b>
+> - ⚠️ Importante: Uso de Excepciones personalizadas
+
+### 📚 **Referencias y Recursos**
+- [Curso .Net Clean Architecture en Español](https://www.youtube.com/playlist?list=PLOnQtvVd3KIRVH8jk8mEyGaYD-wua5sXC)
+
+### 📂 **Repositorios**
+- Proyecto src/Api/Middleware: [Repositorio personal: .Net Clean Architecture](https://github.com/giramos/.Net-Clean-Architecture)  
+- Apartado Middleware: [Documentación: .Net-Clean-Architecture](https://github.com/giramos/.Net-Clean-Architecture/blob/master/Doc/Clean%20Architecture%20.Net.pdf)
