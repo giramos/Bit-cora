@@ -329,8 +329,8 @@
 ### 🔧 **Tareas realizadas**
 - Implementación de imagen de pefil por defecto
   - Front-end 
-    > [!NOTE]  
-    > Se penso en tocar el front end solamente, una primera versión_:one: que no era la mejor :x:
+> [!NOTE] 
+> Se penso en tocar el front end solamente, una primera versión :one: que no era la mejor ❌
 
 ---
 
@@ -339,9 +339,9 @@
 ### 🔧 **Tareas realizadas**
 - Implementación de imagen de pefil por defecto
   - Front-end y Back-end (conexión entre ambos a traves de service (FrontEnd) y endpoint (BackEnd))
-    > [!NOTE]  
-    > Se toco ambos, una segunda versión_:two: se hizo una conexión a través de un servicio creado
-    en el front y un endpoint en el back :ballot_box_with_check: 
+> [!NOTE]  
+> Se toco ambos, una segunda versión :two: se hizo una conexión a través de un servicio creado
+en el front y un endpoint en el back :ballot_box_with_check: 
   - Implementación endPoints
     - GetProfilePicture
   - Implementación servicio
@@ -376,10 +376,10 @@
 ### 🔧 **Tareas realizadas**
 - Solventar errores de autenticación
   - Error 404 :ballot_box_with_check: 
-  > [!NOTE]  
-    > - sol :one: :x: :Se probó usando un parámetro opcional en getUserByFirebaseID, modificando parte del front y del back 
-    > - sol :two: :ballot_box_with_check: : Se modificó solamente el back, mas exactamente el controller, para manejar la posibilidad de null
-      > - NOTA ⚠️: En implementaciones anteriores aplicando el gestor de errores middleware añadiste una excepicón NO necesaria en el getUserByFirebasID (back)
+> [!NOTE]  
+> - sol :one: :x: :Se probó usando un parámetro opcional en getUserByFirebaseID, modificando parte del front y del back 
+> - sol :two: :ballot_box_with_check: : Se modificó solamente el back, mas exactamente el controller, para manejar la posibilidad de null
+> - NOTA ⚠️: En implementaciones anteriores aplicando el gestor de errores middleware añadiste una excepicón NO necesaria en el getUserByFirebasID (back)
 
 ---
 
