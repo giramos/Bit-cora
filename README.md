@@ -13,7 +13,12 @@
 - [14/02/2025](#-fecha-14022025) 
 - [17/02/2025](#-fecha-17022025) 
 - [18/02/2025](#-fecha-18022025) 
-
+- [19/02/2025](#-fecha-19022025) 
+- [20/02/2025](#-fecha-20022025) 
+- [21/02/2025](#-fecha-21022025) 
+- [23/02/2025](#-fecha-24022025) 
+- [24/02/2025](#-fecha-25022025) 
+- [25/02/2025](#-fecha-26022025) 
 ---
 
 ## 📅 Fecha: 03/02/2025
@@ -316,3 +321,77 @@
 ### 📂 **Repositorios**
 - Proyecto src/Api/Middleware: [Repositorio personal: .Net Clean Architecture](https://github.com/giramos/.Net-Clean-Architecture)  
 - Apartado Middleware: [Documentación: .Net-Clean-Architecture](https://github.com/giramos/.Net-Clean-Architecture/blob/master/Doc/Clean%20Architecture%20.Net.pdf)
+
+---
+
+## 📅 Fecha: 19/02/2025
+
+### 🔧 **Tareas realizadas**
+- Implementación de imagen de pefil por defecto
+  - Front-end 
+    > [!NOTE]  
+    > Se penso en tocar el front end solamente, una primera versión_:one: que no era la mejor :x:
+
+---
+
+## 📅 Fecha: 20/02/2025
+
+### 🔧 **Tareas realizadas**
+- Implementación de imagen de pefil por defecto
+  - Front-end y Back-end (conexión entre ambos a traves de service (FrontEnd) y endpoint (BackEnd))
+    > [!NOTE]  
+    > Se toco ambos, una segunda versión_:two: se hizo una conexión a través de un servicio creado
+    en el front y un endpoint en el back :ballot_box_with_check: 
+  - Implementación endPoints
+    - GetProfilePicture
+  - Implementación servicio
+    - getProfilePicture
+
+---
+
+## 📅 Fecha: 21/02/2025
+
+### 🔧 **Tareas realizadas**
+- Añadidos campos nuevos a User
+  - Front y Back
+    - UpdateAt 
+    - Email
+- Actualización y migración BBDD
+
+---
+
+## 📅 Fecha: 24/02/2025
+
+### 🔧 **Tareas realizadas**
+- Solventar errores de autenticación
+  - Errores de serialización :ballot_box_with_check: 
+  - Error scrollView por FlatList :ballot_box_with_check: 
+  - Error 404 :x:
+- Probado casos de uso 
+
+---
+
+## 📅 Fecha: 25/02/2025
+
+### 🔧 **Tareas realizadas**
+- Solventar errores de autenticación
+  - Error 404 :ballot_box_with_check: 
+  > [!NOTE]  
+    > - sol :one: :x: :Se probó usando un parámetro opcional en getUserByFirebaseID, modificando parte del front y del back 
+    > - sol :two: :ballot_box_with_check: : Se modificó solamente el back, mas exactamente el controller, para manejar la posibilidad de null
+      > - NOTA ⚠️: En implementaciones anteriores aplicando el gestor de errores middleware añadiste una excepicón NO necesaria en el getUserByFirebasID (back)
+
+---
+
+## 📅 Fecha: 26/02/2025
+
+### 🔧 **Tareas realizadas**
+- Inicio del <b>Segundo Sprint</b>
+- Actualización y migración de la BBDD
+- Añadidos nuevos campos a Category
+- Convertir Category de Aggregate a Entity
+
+---
+
+## 📅 Fecha: 27/02/2025
+  
