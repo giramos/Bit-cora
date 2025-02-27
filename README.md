@@ -16,9 +16,10 @@
 - [19/02/2025](#-fecha-19022025) 
 - [20/02/2025](#-fecha-20022025) 
 - [21/02/2025](#-fecha-21022025) 
-- [23/02/2025](#-fecha-24022025) 
-- [24/02/2025](#-fecha-25022025) 
-- [25/02/2025](#-fecha-26022025) 
+- [24/02/2025](#-fecha-24022025) 
+- [25/02/2025](#-fecha-25022025) 
+- [26/02/2025](#-fecha-26022025) 
+- [27/02/2025](#-fecha-27022025) 
 ---
 
 ## 📅 Fecha: 03/02/2025
@@ -277,8 +278,8 @@
 
 ### 🔧 **Tareas realizadas**
 - Configuración del entorno del desarrollo
-  - Back-end :ballot_box_with_check:
-  - Front-end :x: 
+  - Back-end ✅
+  - Front-end ❌ 
 
 ### 🚩 **Puntos Destacables**
 > [!WARNING]
@@ -292,7 +293,7 @@
 
 ### 🔧 **Tareas realizadas**
 - Configuración del entorno del desarrollo
-  - Front-end :ballot_box_with_check:
+  - Front-end ✅
 - Implementación endPoints
   - GetAllUsers
   - GetUserByUserName
@@ -303,7 +304,7 @@
 
 ### 🔧 **Tareas realizadas**
 - Configuración del entorno del desarrollo
-  - Front-end :ballot_box_with_check:
+  - Front-end ✅
 - Implementación endPoints
   - GetAllUsers
   - GetUserByUserName
@@ -341,7 +342,7 @@
   - Front-end y Back-end (conexión entre ambos a traves de service (FrontEnd) y endpoint (BackEnd))
 > [!NOTE]  
 > Se toco ambos, una segunda versión :two: se hizo una conexión a través de un servicio creado
-en el front y un endpoint en el back :ballot_box_with_check: 
+en el front y un endpoint en el back ✅ 
   - Implementación endPoints
     - GetProfilePicture
   - Implementación servicio
@@ -364,9 +365,9 @@ en el front y un endpoint en el back :ballot_box_with_check:
 
 ### 🔧 **Tareas realizadas**
 - Solventar errores de autenticación
-  - Errores de serialización :ballot_box_with_check: 
-  - Error scrollView por FlatList :ballot_box_with_check: 
-  - Error 404 :x:
+  - Errores de serialización ✅ 
+  - Error scrollView por FlatList ✅ 
+  - Error 404 ❌
 - Probado casos de uso 
 
 ---
@@ -375,10 +376,10 @@ en el front y un endpoint en el back :ballot_box_with_check:
 
 ### 🔧 **Tareas realizadas**
 - Solventar errores de autenticación
-  - Error 404 :ballot_box_with_check: 
+  - Error 404 ✅ 
 > [!NOTE]  
-> - sol :one: :x: :Se probó usando un parámetro opcional en getUserByFirebaseID, modificando parte del front y del back 
-> - sol :two: :ballot_box_with_check: : Se modificó solamente el back, mas exactamente el controller, para manejar la posibilidad de null
+> - sol :one: ❌ :Se probó usando un parámetro opcional en getUserByFirebaseID, modificando parte del front y del back 
+> - sol :two: ✅ : Se modificó solamente el back, mas exactamente el controller, para manejar la posibilidad de null
 > - NOTA ⚠️: En implementaciones anteriores aplicando el gestor de errores middleware añadiste una excepicón NO necesaria en el getUserByFirebasID (back)
 
 ---
@@ -395,3 +396,15 @@ en el front y un endpoint en el back :ballot_box_with_check:
 
 ## 📅 Fecha: 27/02/2025
   
+### 🔧 **Tareas realizadas**
+- Crear una relación usuario-categoría
+> [!NOTE]
+> - NOTA ⚠️: Hay que tocar el back (infrastucture/configuration y core/relations)
+> - Establecer relación bidireccional (*...*)
+> - Hacer una migración de la BBDD y actualizarla
+- Implementación de un endPoint que guarde los interes de un usuario
+> [!NOTE]
+> Se precisa crear el command pertinente
+
+> [!IMPORTANT]
+> <i> Cuando se modifique algo en el "Core", ya sea una entidad, un campo nuevo, modificar alguna propiedad de un agregado, etc. -> Migración BBDD/Actualización BBDD </i>
