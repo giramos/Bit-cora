@@ -2,18 +2,18 @@
 
 ## 📌 Índice  
 ## 📌 Índice  
-| Fecha | Fecha |
-|-------|-------|
-| [03/02/2025](#-fecha-03022025) | [14/02/2025](#-fecha-14022025) |
-| [04/02/2025](#-fecha-04022025) | [17/02/2025](#-fecha-17022025) |
-| [05/02/2025](#-fecha-05022025) | [18/02/2025](#-fecha-18022025) |
-| [06/02/2025](#-fecha-06022025) | [19/02/2025](#-fecha-19022025) |
-| [07/02/2025](#-fecha-07022025) | [20/02/2025](#-fecha-20022025) |
-| [10/02/2025](#-fecha-10022025) | [21/02/2025](#-fecha-21022025) |
-| [11/02/2025](#-fecha-11022025) | [24/02/2025](#-fecha-24022025) |
+| Mes de Febrero | Mes de Abril |
+|-------|-------|-------|
+| [03/02/2025](#-fecha-03022025) | [14/02/2025](#-fecha-14022025) | [03/03/2025](#-fecha-03032025) |
+| [04/02/2025](#-fecha-04022025) | [17/02/2025](#-fecha-17022025) | [04/03/2025](#-fecha-04032025) |
+| [05/02/2025](#-fecha-05022025) | [18/02/2025](#-fecha-18022025) | [05/03/2025](#-fecha-05032025) |
+| [06/02/2025](#-fecha-06022025) | [19/02/2025](#-fecha-19022025) | [06/03/2025](#-fecha-06032025) |
+| [07/02/2025](#-fecha-07022025) | [20/02/2025](#-fecha-20022025) | [07/03/2025](#-fecha-07032025) |
+| [10/02/2025](#-fecha-10022025) | [21/02/2025](#-fecha-21022025) | [10/03/2025](#-fecha-10032025) |
+| [11/02/2025](#-fecha-11022025) | [24/02/2025](#-fecha-24022025) | [11/03/2025](#-fecha-11032025) |
 | [12/02/2025](#-fecha-12022025) | [25/02/2025](#-fecha-25022025) |
 | [13/02/2025](#-fecha-13022025) | [26/02/2025](#-fecha-26022025) |
-|       | [27/02/2025](#-fecha-27022025) |
+| [27/02/2025](#-fecha-27022025) | [28/02/2025](#-fecha-28022025) |
 ---
 
 ## 📅 Fecha: 03/02/2025
@@ -402,3 +402,83 @@ en el front y un endpoint en el back ✅
 
 > [!IMPORTANT]
 > <i> Cuando se modifique algo en el "Core", ya sea una entidad, un campo nuevo, modificar alguna propiedad de un agregado, etc. -> Migración BBDD/Actualización BBDD </i>
+
+---
+
+## 📅 Fecha: 28/02/2025
+
+### 🔧 **Tareas realizadas**
+- Navegación terminada
+- Declarado y obtenido nuevo estado de Redux
+- Creada Pantalla de Categorías (Front end)
+- Añadida nueva validación (Back end)
+- Query y handler -> obtener intereses por id ususario
+
+---
+
+## 📅 Fecha: 03/03/2025
+
+### 🔧 **Tareas realizadas**
+- Conexión back - front ❌
+> [!IMPORTANT]
+> Modificado en el createHandler para que devuelva el id (antes devolvía equivocadamente el nombre)
+- Añadido en el front un campo más en AuthInterface (Redux)
+---
+
+## 📅 Fecha: 04/03/2025
+
+### 🔧 **Tareas realizadas**
+- Definido estilo de la pantalla de intereses
+> [!NOTE]  
+> Problemas al añadir categorías por culpa de que NO estaban creadas en la BBDD
+- Vuelta a valores de validación (Server BACK) "3 categorías mínimo"
+- Solventado Error navegation ✅ 
+
+### 📚 **Referencias y Recursos**
+- Páginas web:
+  - [Medium: navegación con typeScript](https://medium.com/@vadymchernykh/react-native-navigation-with-typescript-3c4e6bfaf583)
+  - [React Native: navegation](https://ashuvssut.hashnode.dev/type-checking-in-react-navigation)
+- Libro:
+	<i>React práctico: Desde cero a desarrollos web avanzados . Autor/a : Pello Xabier Altadill Izura</i>
+---
+
+## 📅 Fecha: 05/03/2025
+
+### 🔧 **Tareas realizadas**
+- Habilitada funcionalidad del botón "Continuar" (enabled) si hay 3 categorías mínimo (Front)
+- Implementación <b> tipado de rutas </b>
+- Tiempo de espera solucionado para evitar error de montage ✅ 
+- Almacenamiento general del estado del usuario en Redux (Front)
+- Estilos y fuentes importados en la screen e icon de interest
+
+---
+
+## 📅 Fecha: 06/03/2025
+
+### 🔧 **Tareas realizadas**
+- Arreglado duplicidad de código
+- Refactorización de código
+- Migraciones hechas
+- Nuevo comienzo de sprint <<Sprint 4 - Feed>>
+- Creación de componentes y subcomponentes
+- Integración en HomeScreen (Front) a modo de prueba
+- Funcionamiento válido pero no conforme ❌
+---
+
+## 📅 Fecha: 07/03/2025
+
+### 🔧 **Tareas realizadas**
+- Nuevas implementaciones de rutas de imágenes
+- Ajuste de estilos
+- Nuevo formato de NavegationBar (eliminado Details)
+
+### 🚩 **Puntos Destacables**
+Se ha probado a simplificar y facilitar la ruta de la imagen con un simple String, lo cuál me ha llevado a errores en el renderizado o simplemente de compilación.
+⚠️ Solución: optado por <b>ImageSourcePropType</b>
+
+
+---
+
+## 📅 Fecha:10/03/2025
+
+### 🔧 **Tareas realizadas**
