@@ -1,18 +1,27 @@
-# 🗓️ Bitácora de Trabajo
-
 ## 📌 Índice  
-| Mes de Febrero | Mes de Febrero | Mes de Marzo |
-|----------------|----------------|--------------|
-| [03/02/2025](#fecha-03022025) | [14/02/2025](#fecha-14022025) | [03/03/2025](#fecha-03032025) |
-| [04/02/2025](#fecha-04022025) | [17/02/2025](#fecha-17022025) | [04/03/2025](#fecha-04032025) |
-| [05/02/2025](#fecha-05022025) | [18/02/2025](#fecha-18022025) | [05/03/2025](#fecha-05032025) |
-| [06/02/2025](#fecha-06022025) | [19/02/2025](#fecha-19022025) | [06/03/2025](#fecha-06032025) |
-| [07/02/2025](#fecha-07022025) | [20/02/2025](#fecha-20022025) | [07/03/2025](#fecha-07032025) |
-| [10/02/2025](#fecha-10022025) | [21/02/2025](#fecha-21022025) | [10/03/2025](#fecha-10032025) |
-| [11/02/2025](#fecha-11022025) | [24/02/2025](#fecha-24022025) | [11/03/2025](#fecha-11032025) |
-| [12/02/2025](#fecha-12022025) | [25/02/2025](#fecha-25022025) |              |
-| [13/02/2025](#fecha-13022025) | [26/02/2025](#fecha-26022025) |              |
-| [27/02/2025](#fecha-27022025) | [28/02/2025](#fecha-28022025) |              |
+| Mes de Febrero | Mes de Marzo | Mes de Abril |
+|----------------|--------------|--------------|
+| [03/02/2025](#fecha-03022025) | [03/03/2025](#fecha-03032025) | [01/04/2025](#fecha-01042025) |
+| [04/02/2025](#fecha-04022025) | [04/03/2025](#fecha-04032025) | [02/04/2025](#fecha-02042025) |
+| [05/02/2025](#fecha-05022025) | [05/03/2025](#fecha-05032025) | [03/04/2025](#fecha-03042025) |
+| [06/02/2025](#fecha-06022025) | [06/03/2025](#fecha-06032025) | [04/04/2025](#fecha-04042025) |
+| [07/02/2025](#fecha-07022025) | [07/03/2025](#fecha-07032025) | [07/04/2025](#fecha-07042025) |
+| [10/02/2025](#fecha-10022025) | [10/03/2025](#fecha-10032025) | [08/04/2025](#fecha-08042025) |
+| [11/02/2025](#fecha-11022025) | [11/03/2025](#fecha-11032025) | [09/04/2025](#fecha-09042025) |
+| [12/02/2025](#fecha-12022025) | [12/03/2025](#fecha-12032025) | [10/04/2025](#fecha-10042025) |
+| [13/02/2025](#fecha-13022025) | [13/03/2025](#fecha-13032025) | [11/04/2025](#fecha-11042025) |
+| [14/02/2025](#fecha-14022025) | [14/03/2025](#fecha-14032025) | [14/04/2025](#fecha-14042025) |
+| [17/02/2025](#fecha-17022025) | [17/03/2025](#fecha-17032025) | [15/04/2025](#fecha-15042025) |
+| [18/02/2025](#fecha-18022025) | [18/03/2025](#fecha-18032025) |              |
+| [19/02/2025](#fecha-19022025) | [19/03/2025](#fecha-19032025) |              |
+| [20/02/2025](#fecha-20022025) | [20/03/2025](#fecha-20032025) |              |
+| [21/02/2025](#fecha-21022025) | [21/03/2025](#fecha-21032025) |              |
+| [24/02/2025](#fecha-24022025) | [24/03/2025](#fecha-24032025) |              |
+| [25/02/2025](#fecha-25022025) | [25/03/2025](#fecha-25032025) |              |
+| [26/02/2025](#fecha-26022025) | [26/03/2025](#fecha-26032025) |              |
+| [27/02/2025](#fecha-27022025) | [27/03/2025](#fecha-27032025) |              |
+| [28/02/2025](#fecha-28022025) | [28/03/2025](#fecha-28032025) |              |
+|                      | [31/03/2025](#fecha-31032025) |              |
 
 ---
 
@@ -166,3 +175,53 @@
 | Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos | Repositorios |
 |-------|-------------------|-------------------|------------------------|--------------|
 | **11/03/2025** | <ul><li>Pendiente de completar</li></ul> | | | |
+
+## 📅 Mes de Marzo 2025
+
+### 📆 Semana 4
+
+<a id="fecha-25032025"></a>
+| Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos |
+|-------|-------------------|--------------------|------------------------|
+| **25/03/2025** | <ul><li>Filtrado Posts (BackEnd)</li><li>Integración completa flujo backend+frontend</li><li>Inicio de nuevo sprint "Explora"</li></ul> | <ul><li>Estableciendo relación usuario <-> post, sin hacerlo manualmente ✔️</li><li>Fusionado y actualización de BBDD (ramas develop - staging - main)</li></ul> | |
+
+<a id="fecha-26032025"></a>
+| Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos |
+|-------|-------------------|--------------------|------------------------|
+| **26/03/2025** | <ul><li>Desarrollo de Estructura básica UI/UX pantalla Explora (FrontEnd)</li></ul> | | |
+
+<a id="fecha-27032025"></a>
+| Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos |
+|-------|-------------------|--------------------|------------------------|
+| **27/03/2025** | <ul><li>Desarrollo componente EventMiniCard</li><li>Desarrollo componente ProposalMiniCard</li><li>Desarrollo componente ExperienceMiniCard</li><li>Implementar sección "Este fin de semana"</li></ul> | <ul><li>Refactorización de código: decisión de renombrado en el front (categories vs interests)</li></ul> | |
+
+<a id="fecha-28032025"></a>
+| Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos |
+|-------|-------------------|--------------------|------------------------|
+| **28/03/2025** | <ul><li>Implementar sección "Este fin de semana" (BackEnd y FrontEnd)</li><li>Testing para "Implementar sección 'Este fin de semana'"</li></ul> | <ul><li>Se ha cambiado la parametrización de fechas, para aceptar hasta tres argumentos opcionales (BackEnd)</li><li>⚠️ Filtrado de fechas</li></ul> | |
+
+<a id="fecha-31032025"></a>
+| Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos |
+|-------|-------------------|--------------------|------------------------|
+| **31/03/2025** | <ul><li>Implementar sección "Este fin de semana" (FrontEnd)</li><li>Testing para "Implementar sección 'Este fin de semana'"</li></ul> | <ul><li>Añadida nueva vista (PostListScreen), tras darle al botón de "ver más" en cualquier sección</li></ul> | |
+
+---
+
+## 📅 Mes de Abril 2025
+
+### 📆 Semana 1
+
+<a id="fecha-01042025"></a>
+| Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos |
+|-------|-------------------|--------------------|------------------------|
+| **01/04/2025** | <ul><li>Implementar sección "Próximas propuestas" (FrontEnd y BackEnd)</li><li>Implementar sección "Este fin de semana" ❌</li><li>Añadido filtro de ordenación (BackEnd) ✅</li></ul> | <ul><li>Problemas de filtrado - Reusabilidad del hook</li></ul> | |
+
+<a id="fecha-02042025"></a>
+| Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos |
+|-------|-------------------|--------------------|------------------------|
+| **02/04/2025** | <ul><li>Testing Implementar sección "Próximas propuestas" ✅ (FrontEnd)</li><li>Implementar UI/UX panel de filtros (FrontEnd) - primera versión</li></ul> | | |
+
+<a id="fecha-03042025"></a>
+| Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos |
+|-------|-------------------|--------------------|------------------------|
+| **03/04/2025** | <ul><li>Implementar UI/UX panel de filtros (FrontEnd) - segunda versión</li><li>Testing UI/UX ❌</li></ul> | | |
