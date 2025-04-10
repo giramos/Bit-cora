@@ -1,19 +1,29 @@
 # 🗓️ Bitácora de Trabajo
 
 ## 📌 Índice  
-## 📌 Índice  
-| Mes de Febrero | Mes de Febrero | Mes de Marzo |
-|----------------|----------------|--------------|
-| [03/02/2025](#-fecha-03022025) | [14/02/2025](#-fecha-14022025) | [03/03/2025](#-fecha-03032025) |
-| [04/02/2025](#-fecha-04022025) | [17/02/2025](#-fecha-17022025) | [04/03/2025](#-fecha-04032025) |
-| [05/02/2025](#-fecha-05022025) | [18/02/2025](#-fecha-18022025) | [05/03/2025](#-fecha-05032025) |
-| [06/02/2025](#-fecha-06022025) | [19/02/2025](#-fecha-19022025) | [06/03/2025](#-fecha-06032025) |
-| [07/02/2025](#-fecha-07022025) | [20/02/2025](#-fecha-20022025) | [07/03/2025](#-fecha-07032025) |
-| [10/02/2025](#-fecha-10022025) | [21/02/2025](#-fecha-21022025) | [10/03/2025](#-fecha-10032025) |
-| [11/02/2025](#-fecha-11022025) | [24/02/2025](#-fecha-24022025) | [11/03/2025](#-fecha-11032025) |
-| [12/02/2025](#-fecha-12022025) | [25/02/2025](#-fecha-25022025) |              |
-| [13/02/2025](#-fecha-13022025) | [26/02/2025](#-fecha-26022025) |              |
-| [27/02/2025](#-fecha-27022025) | [28/02/2025](#-fecha-28022025) |  
+| Mes de Febrero       | Mes de Marzo         | Mes de Abril         |
+|----------------------|----------------------|----------------------|
+| [03/02/2025](#-fecha-03022025) | [03/03/2025](#-fecha-03032025) | [01/04/2025](#-fecha-01042025) |
+| [04/02/2025](#-fecha-04022025) | [04/03/2025](#-fecha-04032025) | [02/04/2025](#-fecha-02042025) |
+| [05/02/2025](#-fecha-05022025) | [05/03/2025](#-fecha-05032025) | [03/04/2025](#-fecha-03042025) |
+| [06/02/2025](#-fecha-06022025) | [06/03/2025](#-fecha-06032025) | [04/04/2025](#-fecha-04042025) |
+| [07/02/2025](#-fecha-07022025) | [07/03/2025](#-fecha-07032025) | [07/04/2025](#-fecha-07042025) |
+| [10/02/2025](#-fecha-10022025) | [10/03/2025](#-fecha-10032025) | [08/04/2025](#-fecha-08042025) |
+| [11/02/2025](#-fecha-11022025) | [11/03/2025](#-fecha-11032025) | [09/04/2025](#-fecha-09042025) |
+| [12/02/2025](#-fecha-12022025) | [12/03/2025](#-fecha-12032025) | [10/04/2025](#-fecha-10042025) |
+| [13/02/2025](#-fecha-13022025) | [13/03/2025](#-fecha-13032025) | [11/04/2025](#-fecha-11042025) |
+| [14/02/2025](#-fecha-14022025) | [14/03/2025](#-fecha-14032025) | [14/04/2025](#-fecha-14042025) |
+| [17/02/2025](#-fecha-17022025) | [17/03/2025](#-fecha-17032025) | [15/04/2025](#-fecha-15042025) |
+| [18/02/2025](#-fecha-18022025) | [18/03/2025](#-fecha-18032025) |                      |
+| [19/02/2025](#-fecha-19022025) | [19/03/2025](#-fecha-19032025) |                      |
+| [20/02/2025](#-fecha-20022025) | [20/03/2025](#-fecha-20032025) |                      |
+| [21/02/2025](#-fecha-21022025) | [21/03/2025](#-fecha-21032025) |                      |
+| [24/02/2025](#-fecha-24022025) | [24/03/2025](#-fecha-24032025) |                      |
+| [25/02/2025](#-fecha-25022025) | [25/03/2025](#-fecha-25032025) |                      |
+| [26/02/2025](#-fecha-26022025) | [26/03/2025](#-fecha-26032025) |                      |
+| [27/02/2025](#-fecha-27022025) | [27/03/2025](#-fecha-27032025) |                      |
+| [28/02/2025](#-fecha-28022025) | [28/03/2025](#-fecha-28032025) |                      |
+|                      | [31/03/2025](#-fecha-31032025) |                      |
 ---
 
 ## 📅 Fecha: 03/02/2025
@@ -476,9 +486,291 @@ en el front y un endpoint en el back ✅
 Se ha probado a simplificar y facilitar la ruta de la imagen con un simple String, lo cuál me ha llevado a errores en el renderizado o simplemente de compilación.
 ⚠️ Solución: optado por <b>ImageSourcePropType</b>
 
+---
+
+## 📅 Fecha: 10/03/2025
+
+### 🔧 **Tareas realizadas**
+
+### 🚩 **Puntos Destacables**
+
+### 📚 **Referencias y Recursos**
 
 ---
 
-## 📅 Fecha:10/03/2025
+## 📅 Fecha: 11/03/2025
 
 ### 🔧 **Tareas realizadas**
+
+### 🚩 **Puntos Destacables**
+
+### 📚 **Referencias y Recursos**
+
+---
+
+## 📅 Fecha: 12/03/2025
+
+### 🔧 **Tareas realizadas**
+
+### 🚩 **Puntos Destacables**
+
+### 📚 **Referencias y Recursos**
+
+---
+
+## 📅 Fecha: 13/03/2025
+
+### 🔧 **Tareas realizadas**
+
+### 🚩 **Puntos Destacables**
+
+### 📚 **Referencias y Recursos**
+
+---
+
+## 📅 Fecha: 14/03/2025
+
+### 🔧 **Tareas realizadas**
+
+### 🚩 **Puntos Destacables**
+
+### 📚 **Referencias y Recursos**
+
+
+---
+
+## 📅 Fecha: 17/03/2025
+
+### 🔧 **Tareas realizadas**
+
+### 🚩 **Puntos Destacables**
+
+### 📚 **Referencias y Recursos**
+
+---
+
+## 📅 Fecha: 18/03/2025
+
+### 🔧 **Tareas realizadas**
+
+### 🚩 **Puntos Destacables**
+
+### 📚 **Referencias y Recursos**
+
+---
+
+## 📅 Fecha: 19/03/2025
+
+### 🔧 **Tareas realizadas**
+
+### 🚩 **Puntos Destacables**
+
+### 📚 **Referencias y Recursos**
+
+---
+
+## 📅 Fecha: 20/03/2025
+
+### 🔧 **Tareas realizadas**
+
+### 🚩 **Puntos Destacables**
+
+### 📚 **Referencias y Recursos**
+
+---
+
+## 📅 Fecha: 21/03/2025
+
+### 🔧 **Tareas realizadas**
+
+### 🚩 **Puntos Destacables**
+
+### 📚 **Referencias y Recursos**
+
+---
+
+## 📅 Fecha: 24/03/2025
+
+### 🔧 **Tareas realizadas**
+
+### 🚩 **Puntos Destacables**
+
+### 📚 **Referencias y Recursos**
+---
+
+## 📅 Fecha: 25/03/2025
+
+### 🔧 **Tareas realizadas**
+- Filtrado Posts (BackEnd) 
+- Integración completa flujo backend+frontend 
+- Inicio de nuevo sprint "Explora"
+
+### 🚩 **Puntos Destacables**
+- Estableciendo relación ussuario <-> post, sin hacerlo manualmente ✔️
+- Fusionado y actualización de BBDD (ramas develop - staging -main)
+
+### 📚 **Referencias y Recursos**
+
+---
+
+## 📅 Fecha: 26/03/2025
+
+### 🔧 **Tareas realizadas**
+- Desarrollo de Estructura básica UIUX pantalla Explora (FrontEnd)
+
+---
+
+## 📅 Fecha: 27/03/2025
+
+### 🔧 **Tareas realizadas**
+- Front:
+  - Desarrollo componente EventMiniCard
+  - Desarrollo componente ProposalMiniCard 
+  - Desarrollo componente ExperienceMiniCard
+  - Implementar sección "Este fin de semana" 
+
+### 🚩 **Puntos Destacables**
+- Refactoriazación de código: decisión de renombrado en el front (categories vs interests)
+
+---
+
+## 📅 Fecha: 28/03/2025
+
+### 🔧 **Tareas realizadas**
+- Implementar sección "Este fin de semana" (BackEnd y FrontEnd)
+- Testing para "Implementar sección "Este fin de semana" "
+
+### 🚩 **Puntos Destacables**
+- Se ha cambiado la parametrización de fechas, para aceptar hasta tres opcionales argumentos (BackEnd)
+- ⚠️ Filtrado de fechas 
+
+---
+
+## 📅 Fecha: 31/03/2025
+
+### 🔧 **Tareas realizadas**
+- Implementar sección "Este fin de semana" (FrontEnd)
+- Testing para "Implementar sección "Este fin de semana" "
+
+
+### 🚩 **Puntos Destacables**
+- Añadida nueva vista (PostListScreen), tras darle al botónde "ver más" en cualquier sección
+
+---
+
+## 📅 Fecha: 01/04/2025
+
+### 🔧 **Tareas realizadas**
+- Implementar sección "Próximas propuestas" (FrontEnd y BackEnd)
+- Implementar sección "Este fin de semana" ❌ 
+- Añadido filtro de ordenación (BackEnd) ✅
+
+### 🚩 **Puntos Destacables**
+- Problemas de filtrado - Reusabilidad del hook
+
+---
+
+## 📅 Fecha: 02/04/2025
+
+### 🔧 **Tareas realizadas**
+- Testing Implementar sección "Próximas propuestas" ✅ (FrontEnd)
+- Implementar UIUX panel de filtros (FrontEnd) - primera versión
+
+---
+
+## 📅 Fecha: 03/04/2025
+
+### 🔧 **Tareas realizadas**
+- Implementar UIUX panel de filtros (FrontEnd) - segunda versión
+- Testing UIUX ❌
+
+---
+
+## 📅 Fecha: 04/04/2025
+
+### 🔧 **Tareas realizadas**
+- Añadir nuevos filtros a endpoint GetFilteredPosts (BackEnd)
+- Implementar UIUX panel de filtros (FrontEnd) - última versión
+- Testing GetFilteredPosts y UIUX
+
+### 🚩 **Puntos Destacables**
+- Preparación de renombrado de nombres para que sean compatibles entre el front y el back (próxima semana: integración ambas partes)
+
+---
+
+## 📅 Fecha: 07/04/2025
+
+### 🔧 **Tareas realizadas**
+- Integración -> Mostrar resultados basados en filtros (FrontEnd y BackEnd)
+- Creada nueva sección en "ExplorePlans" (FrontEnd)
+
+### 🚩 **Puntos Destacables**
+- No funciona selección de múltiples categorías ❌
+- No funciona fechas personalizadas ❌
+- ⚠️ En el Back se intento en las queryBuilder incluir ('include') categorías ❌
+
+---
+
+## 📅 Fecha: 08/04/2025
+
+### 🔧 **Tareas realizadas**
+- Integración -> Mostrar resultados basados en filtros (FrontEnd y BAckEnd)
+- Testing de toda la funcionalidad nueva (FrontEnd y BackEnd)
+
+### 🚩 **Puntos Destacables**
+- Corregido selección múltiple de categorías (FrontEnd) ✅ 
+- Fechas personalizadas funcionando ✅ 
+- ⚠️ PostService: "solución: comunicación servidor-iu importando "qs" "
+
+---
+
+## 📅 Fecha: 09/04/2025
+
+### 🔧 **Tareas realizadas**
+- Mostrar resultados basados en filtros (FrontEnd)
+- Testing de toda la funcionalidad (FrontEnd y BackEnd)
+
+### 🚩 **Puntos Destacables**
+- Silenciado de warnings de navegación (3 soluciones)
+
+---
+## 📅 Fecha: 10/04/2025
+
+### 🔧 **Tareas realizadas**
+- Inicio de nuevo sprint "Perfiles de Usuarios"
+- Desarrollo de un nuevo filtro post por userId
+- Creación de un endPoint GetUserProfile
+- Testing de las nuevas funcionalidades (BackEnd)
+
+### 🚩 **Puntos Destacables**
+- Fusión ramas (develop - staging - main)
+
+---
+
+## 📅 Fecha: 11/04/2025
+
+### 🔧 **Tareas realizadas**
+
+### 🚩 **Puntos Destacables**
+
+### 📚 **Referencias y Recursos**
+
+---
+
+## 📅 Fecha: 14/04/2025
+
+### 🔧 **Tareas realizadas**
+
+### 🚩 **Puntos Destacables**
+
+### 📚 **Referencias y Recursos**
+
+---
+
+## 📅 Fecha: 15/04/2025
+
+### 🔧 **Tareas realizadas**
+
+### 🚩 **Puntos Destacables**
+
+### 📚 **Referencias y Recursos**
