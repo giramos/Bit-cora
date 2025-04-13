@@ -750,10 +750,17 @@ Se ha probado a simplificar y facilitar la ruta de la imagen con un simple Strin
 ## 📅 Fecha: 11/04/2025
 
 ### 🔧 **Tareas realizadas**
+- Creación de la pantalla de perfil de ususario
 
 ### 🚩 **Puntos Destacables**
+- Navegación anidada
+- Paso de parámetros ente vistas
+- Perfil de ususario (2 versiones):
+  - siendo usuario autenticado
+  - siendo "otro usuario"
 
 ### 📚 **Referencias y Recursos**
+- Imagen prototipo de app "perfil de usuario"
 
 ---
 
