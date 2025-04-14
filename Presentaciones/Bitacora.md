@@ -225,3 +225,43 @@
 | Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos |
 |-------|-------------------|--------------------|------------------------|
 | **03/04/2025** | <ul><li>Implementar UI/UX panel de filtros (FrontEnd) - segunda versión</li><li>Testing UI/UX ❌</li></ul> | | |
+
+<a id="fecha-04042025"></a>
+| Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos |
+|-------|-------------------|--------------------|------------------------|
+| **04/04/2025** | <ul><li>Añadir nuevos filtros a endpoint GetFilteredPosts (BackEnd)</li><li>Implementar UIUX panel de filtros (FrontEnd) - última versión</li><li>Testing GetFilteredPosts y UIUX</li></ul> | <ul><li>Preparación de renombrado de nombres para que sean compatibles entre el front y el back (próxima semana: integración ambas partes)</li></ul> | |
+
+<a id="fecha-07042025"></a>
+| Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos |
+|-------|-------------------|--------------------|------------------------|
+| **07/04/2025** | <ul><li>Integración -> Mostrar resultados basados en filtros (FrontEnd y BackEnd)</li><li>Creada nueva sección en "ExplorePlans" (FrontEnd)</li></ul> | <ul><li>No funciona selección de múltiples categorías ❌</li><li>No funciona fechas personalizadas ❌</li><li>⚠️ En el Back se intento en las queryBuilder incluir ('include') categorías ❌</li></ul> | |
+
+<a id="fecha-08042025"></a>
+| Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos |
+|-------|-------------------|--------------------|------------------------|
+| **08/04/2025** | <ul><li>Integración -> Mostrar resultados basados en filtros (FrontEnd y BAckEnd)</li><li>Testing de toda la funcionalidad nueva (FrontEnd y BackEnd)</li></ul> | <ul><li>Corregido selección múltiple de categorías (FrontEnd) ✅</li><li>Fechas personalizadas funcionando ✅</li><li>⚠️ PostService: "solución: comunicación servidor-iu importando "qs"</li></ul> | |
+
+<a id="fecha-09042025"></a>
+| Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos |
+|-------|-------------------|--------------------|------------------------|
+| **09/04/2025** | <ul><li>Mostrar resultados basados en filtros (FrontEnd)</li><li>Testing de toda la funcionalidad (FrontEnd y BackEnd)</li></ul> | <ul><li>Silenciado de warnings de navegación (3 soluciones)</li></ul> | |
+
+<a id="fecha-10042025"></a>
+| Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos |
+|-------|-------------------|--------------------|------------------------|
+| **10/04/2025** | <ul><li>Inicio de nuevo sprint "Perfiles de Usuarios"</li><li>Desarrollo de un nuevo filtro post por userId</li><li>Creación de un endPoint GetUserProfile</li><li>Testing de las nuevas funcionalidades (BackEnd)</li></ul> | <ul><li>Fusión ramas (develop - staging - main)</li></ul> | |
+
+<a id="fecha-11042025"></a>
+| Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos |
+|-------|-------------------|--------------------|------------------------|
+| **11/04/2025** | <ul><li>Creación de la pantalla de perfil de ususario</li></ul> | <ul><li>Navegación anidada</li><li>Paso de parámetros ente vistas</li><li>Perfil de ususario (2 versiones):</li><ul><li>siendo usuario autenticado</li><li>siendo "otro usuario"</li></ul></ul> | <ul><li>Imagen prototipo de app "perfil de usuario"</li></ul> |
+
+<a id="fecha-14042025"></a>
+| Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos |
+|-------|-------------------|--------------------|------------------------|
+| **14/04/2025** | <ul><li>Finalizada interfaz perfil de ususario</li><li>Testing finalizado (frontEnd)</li></ul> | | |
+
+<a id="fecha-15042025"></a>
+| Fecha | Tareas Realizadas | Puntos Destacables | Referencias y Recursos |
+|-------|-------------------|--------------------|------------------------|
+| **15/04/2025** | <ul><li>Testing finalizado (frontEnd)</li></ul> | | |

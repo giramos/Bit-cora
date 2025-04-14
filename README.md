@@ -767,6 +767,8 @@ Se ha probado a simplificar y facilitar la ruta de la imagen con un simple Strin
 ## 📅 Fecha: 14/04/2025
 
 ### 🔧 **Tareas realizadas**
+- Finalizada interfaz perfil de ususario
+- Testing finalizado (frontEnd)
 
 ### 🚩 **Puntos Destacables**
 
