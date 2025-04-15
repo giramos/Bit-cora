@@ -779,7 +779,14 @@ Se ha probado a simplificar y facilitar la ruta de la imagen con un simple Strin
 ## 📅 Fecha: 15/04/2025
 
 ### 🔧 **Tareas realizadas**
+- Implementada sección "Quizás conozcas..." (BackEnd)
+  - Creado endpoint
+  - Creado userQueryBuilder
+  - Creado dto
 
 ### 🚩 **Puntos Destacables**
+- Añadida paginación a la sección
+- NOTA: ⚠️ Tras revisión, se ha modificado criterio "amigos de amigos" como opcionable
+- Solución: booleano 'ShowFriendsOfFriends'
 
 ### 📚 **Referencias y Recursos**
